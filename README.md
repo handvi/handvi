@@ -17,4 +17,5 @@
 <a href="https://stackoverflow.com/users/21137512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21137512" height="30" width="40" /></a>
 <a href="https://medium.com/@handvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@handvi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/faisalhanafi98_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faisalhanafi98_1" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/faisalhanafi112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/freecodecamp.svg" alt="faisalhanafi112" height="30" width="40" /></a>
 </p>
