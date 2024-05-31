@@ -13,9 +13,12 @@
 <a href="https://www.hackerrank.com/faisalhanafi98_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faisalhanafi98_1" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=handvi&show_icons=true&locale=en&layout=compact" alt="handvi" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=handvi&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=handvi&show_icons=true&locale=en" alt="handvi" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handvi&layout=compact" height=180 />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=handvi&" alt="handvi" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=handvi&" alt="handvi" />
+
+</p>
 
