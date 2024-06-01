@@ -3,7 +3,7 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=handvi&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" width="260" style="vertical-align: middle;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=handvi&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" width="375" style="vertical-align: middle;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handvi&layout=compact" height="120" height="120" style="vertical-align: middle;" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=handvi" alt="handvi" height="120" style="vertical-align: middle;" />
