@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📝 I regularly write articles on [https://handvi.medium.com/](https://handvi.medium.com/)
+- 📝 I regularly write articles on [handvi](https://handvi.medium.com/)
 
 - 💬 Ask me about **MERN Stack**
 
