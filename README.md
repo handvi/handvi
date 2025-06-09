@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 💼 Pentester & AI Enthusiast 
-- 🔭 Exploring Malware Research & Red Teaming
+- 🔭 Exploring CVE Research & Red Teaming
 - 🧠 Passionate about building immersive tech (Web2/Web3) 
 - 🌱 Currently learning: Solidity, React TS, and AI with Python
 
