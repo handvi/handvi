@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @handvi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi there! 👋</h1>
 
-<!---
-handvi/handvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <b>Welcome to my GitHub profile!</b><br/>
+  I'm passionate about Cybersecurity, Software Developer, and AI Enthusiast.
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 💼 Pentester & AI Enthusiast 
+- 🔭 Exploring Malware Research & Red Teaming
+- 🧠 Passionate about building immersive tech (Web2/Web3) 
+- 🌱 Currently learning: Solidity, React TS, and AI with Python
+
+---
+
+<p align="center">
+  <i>"The only limit is the one you set yourself."</i><br/>
+</p>
+
+---
